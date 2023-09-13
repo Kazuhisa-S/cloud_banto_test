@@ -1,0 +1,13 @@
+{
+  "locofyConfig": {
+    "project": "Cloud_Banto_test",
+    "id": "64f9c019aa40a9b30a2575c8",
+    "framework": "react-nextjs",
+    "typescript": true,
+    "styling": "Tailwind",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "/Users/leo/Desktop/cloud_banto_test/src/components",
+    "screensPath": "/Users/leo/Desktop/cloud_banto_test/src/pages"
+  }
+}
